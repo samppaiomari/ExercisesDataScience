@@ -1,4 +1,4 @@
-# Exercises Data Science Course  
+# Exercises Data Science Course 💻⏰📊📌😁  
 Exercicios \\
 Atividades realizadas durante o curso de ciencia de dados - Modulo 1.
 
